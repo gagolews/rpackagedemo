@@ -1,8 +1,8 @@
 \name{demo}
 \alias{demo}
-\title{Does a Demo}
+\title{Demo a Thingy}
 \description{
-Just give it a shot and you won't regret it.
+Just give it a shot and you either will or will not regret it.
 }
 \usage{
 demo(x = "world")

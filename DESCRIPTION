@@ -1,9 +1,10 @@
 Package: rpackagedemo
 Type: Package
 Title: Just a Demo R Package
-Version: 1.0
+Version: 1.0.1
 Date: 1970-01-01
 Author: Anonymous Llama
 Maintainer: Unnamed Kangaroo <roo@inthebush.au>
-Description: Provides a function called demo(), just give it a shot.
+Description: Provides a function named demo(), just give it a shot.
 License: GPL (>= 2)
+Imports: stringx
