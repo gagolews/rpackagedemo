@@ -1,2 +1,3 @@
 importFrom(stringx, sprintf)
-export("demo")
+importFrom(tools, toTitleCase)
+export("bamboo")

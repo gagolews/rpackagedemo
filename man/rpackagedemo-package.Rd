@@ -15,9 +15,9 @@ Maintainer: \packageMaintainer{rpackagedemo}
 }
 \keyword{ package }
 \seealso{
-\code{\link{demo}}
+\code{\link{bamboo}}
 }
 \examples{
-demo()
-demo("Karen")
+bamboo()
+bamboo("Karen")
 }
