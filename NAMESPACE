@@ -1,3 +1,5 @@
 importFrom(stringx, sprintf)
 importFrom(tools, toTitleCase)
+S3method(print, koala)
+S3method(print, kangaroo, .a_hidden_method_to_print_a_roo)
 export("bamboo")
